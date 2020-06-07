@@ -1,0 +1,24 @@
+{
+  "name": "map.stringify",
+  "version": "1.0.0",
+  "description": "a one liner to stringify and parse maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "why"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dada513/map.stringify.git"
+  },
+  "keywords": [
+    "map",
+    "stringify",
+    "parse"
+  ],
+  "author": "dada513",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dada513/map.stringify/issues"
+  },
+  "homepage": "https://github.com/dada513/map.stringify#readme"
+}
